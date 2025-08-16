@@ -1,0 +1,100 @@
+config-sparse:
+  modules:
+    startResources:
+      config:
+        startGold:
+          normal:
+            noAdvantage:
+              human:
+                contents:
+                  suggested-value: 0
+              computer:
+                contents:
+                  suggested-value: 0
+    ucp2-legacy:
+      config:
+        o_onlyai:
+          enabled:
+            contents:
+              suggested-value: true
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              snake:
+                - name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          snake:
+            binks:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Kirito Kun
+                  root: ucp/plugins/KITest/resources/ai/Kirito/
+                  active: true
+    graphicsApiReplacer:
+      config: {}
+  plugins:
+    Ascension-AI-Tournament:
+      config: {}
+    Ascension-AI:
+      config: {}
+    Ascension-AI-Balance:
+      config: {}
+meta:
+  version: 1.0.0
