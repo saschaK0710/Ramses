@@ -1,7 +1,7 @@
 {
   "ai_name"      : "Ramses",
 
-  "title_1"      : "\"der von den Göttern auserwählte\"",
+  "title_1"      : "\"der von den Göttern Auserwählte\"",
   "title_2"      : "\"der Unbarmherzige\"",
   "title_3"      : "\"der Pharao\"",
   "title_4"      : "\"der Schreckensherrscher\"",
@@ -47,4 +47,5 @@
   "will_attack"  : ""
 
 }
+
 
