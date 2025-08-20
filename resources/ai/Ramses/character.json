@@ -149,7 +149,7 @@
 				"AttForceBase": 40,
 				"AttForceRandom": 0,
 				"AttForceSupportAllyThreshold": 30,
-				"AttForceRallyPercentage": 70,
+				"AttForceRallyPercentage": 60,
 				"Unknown129": 1,
 				"AttAssaultDelay": 0,
 				"AttUnitPatrolRecommandDelay": 2,
@@ -191,4 +191,5 @@
 				"AttMainGroupsCount": 1,
 				"TargetChoice": "Closest"
   }
+
 }
