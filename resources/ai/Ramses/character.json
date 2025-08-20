@@ -124,8 +124,8 @@
 				"DefUnit4": "Crossbowman",
 				"DefUnit5": "Crossbowman",
 				"DefUnit6": "Crossbowman",
-				"DefUnit7": "Crossbowman",
-				"DefUnit8": "Spearman",
+				"DefUnit7": "Spearman",
+				"DefUnit8": "ArabArcher",
 				"RaidUnitsBase": 3,
 				"RaidUnitsRandom": 0,
 				"RaidUnit1": "Assassin",
@@ -193,3 +193,4 @@
   }
 
 }
+
